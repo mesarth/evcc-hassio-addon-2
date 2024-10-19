@@ -1,7 +1,7 @@
 ---
-name: evcc
+name: evcc 2
 version: 0.211.1
-slug: evcc
+slug: evcc2
 description: EV Charge Controller!
 url: https://github.com/evcc-io/evcc
 arch: 
