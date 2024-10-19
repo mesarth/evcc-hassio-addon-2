@@ -13,6 +13,7 @@ arch:
 startup: application
 panel_icon: mdi:ev-station
 panel_admin: false
+panel_title: EVCC 2
 boot: auto
 legacy: true
 stage: stable
